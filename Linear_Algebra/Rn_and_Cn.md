@@ -1,4 +1,4 @@
-# $$R^n And C^n$$
+# $R^n And C^n$
 
 ## 复数(complex number)
 
@@ -7,7 +7,7 @@ I didn’t say anything about this stuff. I learned it in high school. Let’s r
 
 ### 定义(definition)
 
-一个**复数**是一个有序对(a,b),其中$$a,b \in R$$我们写作$$a+bi$$
+一个**复数**是一个有序对(a,b),其中$a,b \in R$我们写作$a+bi$
 所有复数构成的集合记为**C**:
 $$C={a+bi:a,b\in R}$$
 
@@ -20,10 +20,9 @@ $$C={a+bi:a,b\in R}$$
 乘法逆元(multplicative inverse)
 分配性质(disturbutive property)
 
-## $$R^n$$
+## $R^n$
 
-### $$R^2 and R^3$$
-
+### $R^2 and R^3$
 
 $$R^2={(x,y):x,y\in R}$$
 $$R^3={(x,y,z):x,y,z\in R}$$
