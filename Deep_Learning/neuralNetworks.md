@@ -122,3 +122,6 @@ $$
 
     (x_train,t_train),(x_test,t_test)=load_mnist(flatten=True,normalize=False)#x表示图像，t表示标签
 然后，我们现在已经了解怎么使用数据集
+
+### 神经网络的推理处理
+
