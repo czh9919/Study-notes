@@ -8,7 +8,7 @@ class TwoLayerNet:
         self.params={} #用于保存权重
         self.params['W1']=weight_init_std * np.random.randn(input_size,hidden_size)
         self.params['b1']=np.zeros(hidden_size)
-        self.params['W2']=weight_init_std * np.random.randn(hidden_size,ouput_size)
+        self.params['W2']=weight_init_std * np.random.randn(hidden_size,output_size)
         self.params['b2']=np.zeros(output_size)
 
     def predict(self,x):
