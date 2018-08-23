@@ -26,7 +26,7 @@ for i in range(iters_num):
 
     loss=network.loss(x_batch,t_batch)
     train_loss_list.append(loss)
-
+    
 plt.plot(train_loss_list)
 plt.ylabel('loss')
 plt.xlabel('iteration')
